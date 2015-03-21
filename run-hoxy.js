@@ -7,6 +7,7 @@
  * See "license.txt" for more info.
  */
 
+var Util = require('util');
 var hoxy = require('hoxy');
 var parseArgs = require('minimist');
 var _ = require('lodash-node');
